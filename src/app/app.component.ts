@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angularDemo';
+  title = 'The Will Will Web';
 
   data: any;
 
